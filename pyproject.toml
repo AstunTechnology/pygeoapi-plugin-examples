@@ -1,0 +1,16 @@
+[project]
+name = "pygeoapi-plugin-examples"
+version = "0.1"
+description = "Example pygeoapi plugins"
+authors = [
+    {name = "Astun Technology", email = "mattwalker@astuntechnology.com"},
+]
+license = {text = "MIT"}
+requires-python = ">=3.10"
+
+[project.urls]
+Homepage = "http://github.com/astuntechnology/pygeoapi-plugin-examples"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"

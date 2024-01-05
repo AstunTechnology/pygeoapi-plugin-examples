@@ -14,7 +14,7 @@ PROCESS_METADATA = {
         'en': 'Buffer Geometry'
     },
     'description': {
-        'en': 'Accepts a GeoJSON geometry and a buffer distance (in the same units as the geometry CRS) as inputs '
+        'en': 'Accepts a GeoJSON geometry and a buffer distance (in the same units as the geometry CRS) as inputs, '
               'outputs a buffered GeoJSON geometry.'
     },
     'jobControlOptions': ['sync-execute', 'async-execute'],
